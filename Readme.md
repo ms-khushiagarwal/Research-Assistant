@@ -207,7 +207,7 @@ The default is a **five-question pilot** with seed `42`. Synthetic labels need h
 
 ### Evaluation results (saved pilot run)
 
-The saved outputs in [`answer_evaluation.ipynb`](answer_evaluation.ipynb) report the following results for run `a30484d95f02f068`. These are recorded notebook results, not a newly executed benchmark.
+The saved outputs in [`answer_evaluation.ipynb`](answer_evaluation.ipynb) report the following results:
 
 - **Corpus:** 16 PDFs, producing 1,659 text chunks.
 - **Evaluation set:** 5 synthetic questions; all 5 completed successfully across all three systems (15 evaluated answers).
